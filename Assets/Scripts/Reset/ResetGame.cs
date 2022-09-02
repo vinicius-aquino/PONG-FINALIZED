@@ -10,4 +10,9 @@ public class ResetGame : MonoBehaviour
         PlayerPrefs.DeleteAll();
         SceneManager.LoadScene(0);
     }
+
+    public void test()
+    {
+
+    }
 }
